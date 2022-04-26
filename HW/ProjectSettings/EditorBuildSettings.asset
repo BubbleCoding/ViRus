@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu's/WelcomeScene.unity
+    guid: 5e614ba116fde8140afaa9ac030753e9
+  - enabled: 1
+    path: Assets/Scenes/Menu's/Main Menu 2.unity
+    guid: 3b21a806a689ba94195ee9883bdbdbd3
+  - enabled: 1
+    path: Assets/Scenes/testing.unity
+    guid: 0cd9673825747264f9d000cabe0e7076
+  - enabled: 0
+    path: Assets/Scenes/HospitalRoom.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Organs/LungS/LungScene.unity
+    guid: 3865e527247972b439268aceb4563a3e
+  - enabled: 1
+    path: Assets/Scenes/Organs/HeartScene.unity
+    guid: 16b2506cb833dd74bbfb00cbb406a0be
+  - enabled: 1
+    path: Assets/Scenes/Organs/Brain/BrainScene.unity
+    guid: b4b3529c66494d740a6b2ab494bb9c3d
+  - enabled: 1
+    path: Assets/Scenes/Menu's/Options Menu.unity
+    guid: d0c22b2d407afc14e9b65af04548aecb
+  - enabled: 0
+    path: Assets/Scenes/Organs/Not in use/DiaphragmScene.unity
+    guid: 2deed936baa1bad4e935f488253e4dcc
+  - enabled: 1
+    path: Assets/Scenes/Organs/Kidney/KidneyScene.unity
+    guid: eeef32d9441484c469a0dd59537cc8dc
+  - enabled: 1
+    path: Assets/Scenes/Organs/LiverScene.unity
+    guid: e2893e2e36517c047811c4ae73a799d6
+  - enabled: 1
+    path: Assets/Scenes/Menu's/Interaction Menu.unity
+    guid: 139310dd9b771ea4d925814f882303de
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Music with button.unity
+    guid: 566e4040182332345a3212bb9b2c0a9a
+  - enabled: 1
+    path: Assets/Scenes/Organs/Brain/BrainScene2.unity
+    guid: 5db0f6910056fb8408c72b8765794b70
+  - enabled: 1
+    path: Assets/Scenes/Organs/LungS/Alveoli.unity
+    guid: 0e37b529e23792c45b5ec189c9cb794d
+  - enabled: 1
+    path: Assets/Scenes/Organs/LungS/Cough.unity
+    guid: 5c0033212c87b024c9f509bef01f6ebe
+  - enabled: 1
+    path: Assets/Scenes/Organs/LungS/Tube.unity
+    guid: 545b57bbeef060a47a478f8baf5edc54
+  - enabled: 1
+    path: Assets/Scenes/Organs/Muscle/MuscleScene2.unity
+    guid: b55ff613ece2be44abcb2d70c46acc6f
+  - enabled: 1
+    path: Assets/Scenes/Organs/Muscle/MuscleScene.unity
+    guid: c49bb9f480732204da0d2a10ea836951
+  - enabled: 1
+    path: Assets/Scenes/Organs/Stomach/StomachScene2.unity
+    guid: 5061762f60c533c4583407f98cc1018d
+  - enabled: 1
+    path: Assets/Scenes/Organs/Intestine/IntestineScene2.unity
+    guid: a4b86a37ed259ad43b278028ea707444
+  - enabled: 1
+    path: Assets/Scenes/Organs/Brain/EarScene.unity
+    guid: 9447f72e47c7fed459f3cc6940efbc4e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Organs/Nose/NoseScene.unity
+    guid: 24522123311bd33499c3c4d11ff36f8c
+  - enabled: 1
+    path: Assets/Scenes/Organs/Nose/NoseScene2.unity
+    guid: eee3b8c19553ea64bab095fd15815235
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 163adec682b5ccd4c8dbb7766c20f3fb
+  - enabled: 1
+    path: Assets/Scenes/Organs/Stomach/StomachScene.unity
+    guid: de4809505b8ed434dab6be66b097b271
+  - enabled: 0
+    path: Assets/Scenes/Music with button.unity
+    guid: 566e4040182332345a3212bb9b2c0a9a
+  - enabled: 1
+    path: Assets/Scenes/Organs/Intestine/IntestineScene.unity
+    guid: b8c6550c0e00b7a46a07eaf90b963bc5
+  - enabled: 1
+    path: Assets/Scenes/Organs/Kidney/KidneyScene2.unity
+    guid: 563e09087fcc8bc42a041d6e55950429
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Organs/Mouth/MouthScene.unity
+    guid: 8e6c9c685c5832b4baf5bcddb97222cb
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/testing2.unity
+    guid: 55925e0be5c5119458797a52499e1494
+  m_configObjects: {}
